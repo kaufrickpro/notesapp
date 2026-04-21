@@ -7,8 +7,13 @@ const Footer = () => {
   return (
     <div style={footerStyle}>
       <br />
+      <img
+        src="/ebrar.jpg"
+        alt="Ebrar"
+        style={{ width: '180px', borderRadius: '12px', display: 'block' }}
+      />
       <p>
-        Note app, Department of Computer Science, University of Helsinki 2025
+        I love EBRARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
       </p>
     </div>
   )
